@@ -36,7 +36,7 @@ header, section, footer, aside, nav, article, figure, figcaption,hgroup,div
 		}
 
 body	{
-	background-image: url('media/anecdotario.png');
+	background-image: url('anecdotario.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
