@@ -1,3 +1,3 @@
 # cartografias
 
-Anecdotario
+Página de Cartografías de una Ciudad Imaginada
